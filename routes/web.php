@@ -18,3 +18,5 @@ Route::get('/', function () {
 Route::post('import', 'SimulatorController@rapportImport')->name('rapport.import');
 
 
+
+
