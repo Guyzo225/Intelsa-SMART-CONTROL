@@ -16,11 +16,6 @@
     <div class="form-group">
         <label for="import" class="col-md-6 control-label" >Import</label>
         <input type="file" id="file" name="file" class="form-control" accept=".xls" autofocus required>
-
-
-
-
-
         <button type="submit" class="btn btn-primary btn-save"> Export</button>
     </div>
 
